@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Chat Now</title>
+</head>
+<body style="display:flex;justify-content:center;align-items:center;height:100vh;background:#f7f7f7;font-family:sans-serif;">
+  <a href="https://wa.me/6581234567" 
+     style="padding:15px 30px;background:#25D366;color:#fff;text-decoration:none;border-radius:5px;font-size:18px;">
+     WhatsApp Us
+  </a>
+</body>
+</html>
